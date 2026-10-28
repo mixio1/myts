@@ -7,7 +7,6 @@
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-3.10%2B-blue">
-  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey">
   <img alt="Built with" src="https://img.shields.io/badge/built%20with-PySide6%20%2B%20yt--dlp-ff4d4f">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
 </p>
@@ -23,7 +22,6 @@ MyTs is a desktop app built with **PySide6 (Qt)** and powered by **[yt-dlp](http
 ## Features
 
 - **Video or audio** — video up to 2160p (Best, 2160p, 1440p, 1080p, 720p, 480p, 360p) or audio as MP3, M4A or WAV
-- **Premiere Pro ready** — audio is always AAC/MP3/WAV (never Opus/Vorbis), and AV1/VP9 video is automatically converted to H.264
 - **Playlist support** — paste a playlist link (or a video from a playlist and choose "whole playlist" or "just this video"); playlist items go into their own subfolder
 - **Download queue** — up to 3 downloads in parallel, the rest wait in the queue; failed downloads can be retried
 - **Auto from clipboard** — optional switch that downloads every YouTube link you copy
