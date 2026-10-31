@@ -29,6 +29,7 @@ MyTs is a desktop app built with **PySide6 (Qt)** and powered by **[yt-dlp](http
 - **Download library** — your history is saved with thumbnails; open the file, reveal it in the folder, copy the link, or delete it from the list / disk
 - **Animated UI** — intro splash, smooth hover/progress/list animations
 - **English &amp; Polish** — English by default; switch language any time from the dropdown in the top-right corner (your choice is remembered)
+- **Thumbnail downloader** — Now you can download thumbnails from a specific video up to 1080p!
 
 ## Download
 
